@@ -12,3 +12,8 @@ https://codepen.io/xsccsx/
 
 ### Lien rapide
 https://tinyurl.com/cours-web	
+
+
+
+### Guide Boucles
+https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Loops_and_iteration
